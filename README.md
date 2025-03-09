@@ -111,7 +111,7 @@ If NVM isn't loading properly:
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Contributions are welcome! Please feel free to submit a Pull Request or just Fork the source code.
 
 ## License
 
